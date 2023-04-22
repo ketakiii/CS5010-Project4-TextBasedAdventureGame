@@ -1,0 +1,70 @@
+Game starts! Press Q for quitting
+You are in a cave
+You find 1 diamond here
+
+Move, Pickup, or Shoot (M-P-S)? p
+What? diamond
+You pick up a diamond
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? s
+No. of caves (1-5)? 1
+Where to? n
+You shoot an arrow into the darkness
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? s
+No. of caves (1-5)? 1
+Where to? n
+You shoot an arrow into the darkness
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? s
+No. of caves (1-5)? 1
+Where to? n
+You shoot an arrow into the darkness
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? n
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+You are in a cave
+You find 1 ruby here
+
+Move, Pickup, or Shoot (M-P-S)? p
+What? ruby
+You pick up a ruby
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+You are in a cave
+You find 1 diamond here
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+You are in a cave
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+You are in a cave
+You smell something nearby
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+You are in a cave
+You find 1 sapphire here
+You smell something terrible nearby
+
+Move, Pickup, or Shoot (M-P-S)? m
+Where to? w
+Chomp, chomp, chomp, you are eaten by an Otyugh!
+Better luck next time
+Process finished with exit code 0
